@@ -44,8 +44,8 @@ model = pickle.load(open('model.pkl','rb'))
 st.set_page_config(
     page_title="SMS Spam Classifier",
     menu_items={
-        'Report a bug': 'https://github.com/VirajPatidar/SMS-Email-Spam-Classifier',
-        'Get help': 'https://github.com/VirajPatidar/SMS-Email-Spam-Classifier',
+        'Report a bug': 'https://github.com/RaviInCode/SMS-Spam-Classifier-NLP-/tree/main',
+        'Get help': 'https://github.com/RaviInCode/SMS-Spam-Classifier-NLP-/tree/main',
         'About': "SMS and Email Spam Classifier \n https://github.com/RaviInCode/SMS-Spam-Classifier-NLP-  \n\n:)"
     }
 )
